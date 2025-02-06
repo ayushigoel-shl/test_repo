@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="greeting">नमस्ते</string>
+    <string name="welcome_message">हमारे आवेदन में आपका स्वागत है!</string>
+    <string name="login_button">लॉग इन करें</string>
+    <string name="signup_button">साइन अप करें</string>
+    <string name="error_message">कुछ गलत हो गया। कृपया पुन: प्रयास करें।</string>
+</resources>
