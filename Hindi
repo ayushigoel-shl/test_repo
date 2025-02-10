@@ -5,4 +5,5 @@
     <string name="login_button">लॉग इन करें</string>
     <string name="signup_button">साइन अप करें</string>
     <string name="error_message">कुछ गलत हो गया। कृपया पुन: प्रयास करें।</string>
+    <string name="new string added " comment="new string">new string added </string>
 </resources>
