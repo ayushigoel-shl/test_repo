@@ -5,4 +5,5 @@
     <string name="login_button">Connexion</string>
     <string name="signup_button">Inscription</string>
     <string name="error_message">Quelque chose a mal tourné. Veuillez réessayer.</string>
+    <string name="new string added " comment="new string">new string added </string>
 </resources>
